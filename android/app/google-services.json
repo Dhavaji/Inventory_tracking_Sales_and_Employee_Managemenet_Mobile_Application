@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889588879990",
+    "project_id": "bobby-app-dd326",
+    "storage_bucket": "bobby-app-dd326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889588879990:android:c73e9322de715159934557",
+        "android_client_info": {
+          "package_name": "thealphamerc.flutter_login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889588879990-a1dqq7fo3lsb5o4q3akgnclvb8giveu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs3PKq8kfF4asZf6OH4i8g04oYSOjBLfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889588879990-a1dqq7fo3lsb5o4q3akgnclvb8giveu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
